@@ -41,8 +41,7 @@ A completed Flutter application for managing multiple accounts, tracking income 
 
 **Tech:** `Flutter` `Dart` `Local Database`
 
-> GitHub repository coming soon.
-
+[View Repository](https://github.com/dev-Shahanoon/expense_tracker)
 ---
 
 ### 💻 CodeStep
