@@ -1,190 +1,103 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Shahanoon K Developer Profile">
+  <img src="assets/header.svg" width="100%" alt="Shahanoon K">
 </p>
 
 <p align="center">
-  <img src="assets/now.svg" alt="Currently Building">
+  <sub>Computer Science · Flutter · Practical Software</sub>
 </p>
 
-<h2 align="center">👋 Hello, I'm Shahanoon K</h2>
+<br>
 
-<p align="center">
-  <strong>BSc Computer Science Student · Flutter Developer</strong>
-</p>
+## About
 
-<p align="center">
-  Building practical software with Flutter, Dart, Firebase, web technologies, and AI.
-</p>
+I'm **Shahanoon K**, a BSc Computer Science student and Flutter developer.
 
-<p align="center">
-  <a href="https://github.com/dev-Shahanoon">
-    GitHub
-  </a>
-  ·
-  <a href="https://www.linkedin.com/in/shahanoon-k">
-    LinkedIn
-  </a>
-  ·
-  <a href="https://shahanoon-protfolio.vercel.app">
-    Portfolio
-  </a>
-</p>
+I build practical applications focused on **clean interfaces, useful features, and real-world problems**.
 
----
+My main technologies include **Flutter, Dart, Firebase, Python, FastAPI, React, and JavaScript**.
 
-## 👨‍💻 About Me
+<br>
 
-I'm a **BSc Computer Science student and Flutter developer** interested in building practical applications and learning modern software technologies.
-
-- 🎓 BSc Computer Science student
-- 📱 Flutter & Dart developer
-- 🌐 Interested in web development
-- 🔥 Experience with Firebase & Cloud Firestore
-- 🤖 Exploring AI-powered applications
-- 🧩 Interested in backend and API integration
-- 🛠️ Learning by building real-world projects
-
----
-
-## 🚀 Featured Projects
+## Selected Projects
 
 ### 🌱 FreshTrack
 
-**Smart Food Inventory & Expiry Tracking App**
+Smart food inventory and expiry tracking application designed to help reduce food waste.
 
-A Flutter application designed to help users manage food inventory, monitor expiry dates, receive alerts, scan products, view analytics, and discover AI-powered recipe ideas.
+`Flutter` `Firebase` `Gemini AI`
 
-**Tech Stack**
-
-`Flutter` `Dart` `Firebase` `Firestore` `Gemini AI`
-
-**Features**
-
-- Food inventory management
-- Expiry tracking
-- Expiry alerts
-- Product scanning
-- Analytics
-- Firebase authentication
-- AI-powered recipe assistance
-
-[View Repository →](https://github.com/dev-Shahanoon/FreshTrack)
+[View project →](https://github.com/dev-Shahanoon/FreshTrack)
 
 ---
 
 ### 💰 Expense Tracker
 
-**Personal Finance & Expense Management App**
+Personal finance application for managing accounts, transactions, balances, and monthly analytics.
 
-A completed Flutter application for managing personal finances across multiple accounts.
+`Flutter` `Dart`
 
-**Features**
-
-- Multiple bank/account management
-- Income and expense tracking
-- Account-wise transactions
-- Transaction history
-- Account balance tracking
-- Expense categories
-- Monthly analytics
-- Dark theme
-
-**Tech Stack**
-
-`Flutter` `Dart` `Local Database`
-
-> Repository will be added soon.
+**Completed · Repository coming soon**
 
 ---
 
 ### 💻 CodeStep
 
-**Interactive Coding Practice Application**
+Interactive coding practice platform focused on learning programming through hands-on exercises.
 
-A learning-focused application designed to help users learn programming through hands-on exercises and coding challenges.
+`Flutter` `Python` `FastAPI`
 
-**Current Learning Areas**
-
-- Python
-- HTML
-- Programming fundamentals
-- Interactive coding exercises
-
-**Tech Stack**
-
-`Flutter` `Dart` `Python` `FastAPI`
-
-> 🚧 Currently under active development.
+**Currently building**
 
 ---
 
-### 🌐 Shahanoon K — Portfolio
+### 🌐 Portfolio
 
-My personal developer portfolio showcasing my projects, skills, education, experience, and development journey.
+Personal developer portfolio showcasing my projects, skills, and experience.
 
-**Tech Stack**
+`React` `Vite` `JavaScript`
 
-`React` `Vite` `JavaScript` `CSS`
+[View portfolio →](https://shahanoon-protfolio.vercel.app)
 
-[View Repository →](https://github.com/dev-Shahanoon/shahanoon-protfolio)
+<br>
 
-[Visit Portfolio →](https://shahanoon-protfolio.vercel.app)
+## Currently Building
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <code>Dart</code>
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>HTML</code>
-  <code>CSS</code>
+<p align="center">
+  <img src="assets/now.svg" width="85%" alt="Currently building">
 </p>
 
-### Frameworks & Platforms
+<br>
 
-<p>
-  <code>Flutter</code>
-  <code>React</code>
-  <code>Vite</code>
-  <code>FastAPI</code>
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,js,html,css,firebase,git,github&perline=6">
+
 </p>
 
-### Backend & Cloud
+<br>
 
-<p>
-  <code>Firebase</code>
-  <code>Cloud Firestore</code>
-  <code>REST APIs</code>
+## Connect
+
+<p align="center">
+
+<a href="https://github.com/dev-Shahanoon">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/shahanoon-k">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://shahanoon-protfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-00BFA6?style=flat-square&logo=vercel&logoColor=white">
+</a>
+
 </p>
 
-### Tools
+<br>
 
-<p>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>VS Code</code>
-  <code>Android Studio</code>
+<p align="center">
+  <sub>Building · Learning · Improving</sub>
 </p>
-
----
-
-## 🔭 Currently Building
-
-### CodeStep
-
-An interactive coding practice platform focused on learning through hands-on exercises.
-
-```text
-Flutter
-   ↓
-Python
-   ↓
-HTML
-   ↓
-FastAPI
-   ↓
-Interactive Coding Practice
