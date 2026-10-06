@@ -1,0 +1,138 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0b1228"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#168cff"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font: 700 52px Arial, sans-serif;
+        fill: #ffffff;
+      }
+
+      .sub {
+        font: 400 22px Arial, sans-serif;
+        fill: #aebbd0;
+      }
+
+      .code {
+        font: 600 18px monospace;
+        fill: #00e5ff;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+
+  <circle cx="1050" cy="70" r="130" fill="#087cff" opacity=".06"/>
+  <circle cx="1080" cy="250" r="170" fill="#00e5ff" opacity=".035"/>
+
+  <path
+    d="M0 275 C260 210 360 330 600 260 S930 210 1200 275"
+    fill="none"
+    stroke="url(#cyan)"
+    stroke-width="2"
+    opacity=".35"
+  />
+
+  <text x="80" y="105" class="code">&lt;developer_profile /&gt;</text>
+
+  <text x="80" y="165" class="title">
+    SHAHANOON K
+  </text>
+
+  <text x="80" y="205" class="sub">
+    BSc Computer Science Student · Flutter Developer
+  </text>
+
+  <text x="80" y="250" class="code">
+    Building practical software
+  </text>
+
+  <rect
+    x="390"
+    y="232"
+    width="3"
+    height="26"
+    fill="#00e5ff"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.9s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <g transform="translate(950 100)">
+    <circle
+      cx="0"
+      cy="0"
+      r="78"
+      fill="#071225"
+      stroke="url(#cyan)"
+      stroke-width="3"
+    />
+
+    <text
+      x="-45"
+      y="18"
+      font-family="Arial, sans-serif"
+      font-size="52"
+      font-weight="700"
+      fill="#ffffff"
+    >S</text>
+
+    <text
+      x="5"
+      y="18"
+      font-family="Arial, sans-serif"
+      font-size="52"
+      font-weight="700"
+      fill="#00d9ff"
+    >K</text>
+
+    <text
+      x="-31"
+      y="55"
+      font-family="monospace"
+      font-size="18"
+      fill="#00e5ff"
+    >&lt;/&gt;</text>
+  </g>
+
+  <g opacity=".8">
+    <circle cx="840" cy="260" r="3" fill="#00e5ff">
+      <animate
+        attributeName="cy"
+        values="260;220;260"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="900" cy="285" r="2" fill="#168cff">
+      <animate
+        attributeName="cy"
+        values="285;245;285"
+        dur="2.4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+  </g>
+</svg>
