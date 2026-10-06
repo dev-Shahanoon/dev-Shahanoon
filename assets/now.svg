@@ -1,0 +1,48 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="120" rx="18" fill="#070d1c"/>
+
+  <circle cx="42" cy="60" r="8" fill="#00e5ff">
+    <animate
+      attributeName="opacity"
+      values="1;.25;1"
+      dur="1.4s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="70"
+    y="48"
+    font-family="Arial, sans-serif"
+    font-size="19"
+    font-weight="700"
+    fill="#ffffff"
+  >
+    NOW BUILDING
+  </text>
+
+  <text
+    x="70"
+    y="80"
+    font-family="monospace"
+    font-size="18"
+    fill="#9fb0c8"
+  >
+    CodeStep · Flutter · Python · HTML
+  </text>
+
+  <path
+    d="M760 60h80"
+    stroke="#00e5ff"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-dasharray="80"
+  >
+    <animate
+      attributeName="stroke-dashoffset"
+      values="80;0;-80"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
+  </path>
+</svg>
