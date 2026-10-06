@@ -1,21 +1,48 @@
-# Shahanoon K
+<p align="center">
+  <img src="assets/header.svg" alt="Shahanoon K Developer Profile">
+</p>
 
-### BSc Computer Science Student · Flutter Developer
+<p align="center">
+  <img src="assets/now.svg" alt="Currently Building">
+</p>
 
-I build practical software applications with a focus on **Flutter, Dart, Firebase, web development, and AI-powered features**.
+<h2 align="center">👋 Hello, I'm Shahanoon K</h2>
 
-Currently learning, building, and turning ideas into useful applications.
+<p align="center">
+  <strong>BSc Computer Science Student · Flutter Developer</strong>
+</p>
+
+<p align="center">
+  Building practical software with Flutter, Dart, Firebase, web technologies, and AI.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dev-Shahanoon">
+    GitHub
+  </a>
+  ·
+  <a href="https://www.linkedin.com/in/shahanoon-k">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://shahanoon-protfolio.vercel.app">
+    Portfolio
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
+I'm a **BSc Computer Science student and Flutter developer** interested in building practical applications and learning modern software technologies.
+
 - 🎓 BSc Computer Science student
-- 📱 Focused on Flutter & Dart development
-- 🌐 Interested in modern web development
+- 📱 Flutter & Dart developer
+- 🌐 Interested in web development
 - 🔥 Experience with Firebase & Cloud Firestore
-- 🤖 Exploring AI-powered application development
-- 🛠️ Building practical projects to improve my development skills
+- 🤖 Exploring AI-powered applications
+- 🧩 Interested in backend and API integration
+- 🛠️ Learning by building real-world projects
 
 ---
 
@@ -25,11 +52,23 @@ Currently learning, building, and turning ideas into useful applications.
 
 **Smart Food Inventory & Expiry Tracking App**
 
-A Flutter application for managing food inventory, monitoring expiry dates, receiving alerts, and discovering AI-powered recipe ideas.
+A Flutter application designed to help users manage food inventory, monitor expiry dates, receive alerts, scan products, view analytics, and discover AI-powered recipe ideas.
 
-**Tech:** `Flutter` `Dart` `Firebase` `Firestore` `Gemini AI`
+**Tech Stack**
 
-[View Repository](https://github.com/dev-Shahanoon/FreshTrack)
+`Flutter` `Dart` `Firebase` `Firestore` `Gemini AI`
+
+**Features**
+
+- Food inventory management
+- Expiry tracking
+- Expiry alerts
+- Product scanning
+- Analytics
+- Firebase authentication
+- AI-powered recipe assistance
+
+[View Repository →](https://github.com/dev-Shahanoon/FreshTrack)
 
 ---
 
@@ -37,11 +76,24 @@ A Flutter application for managing food inventory, monitoring expiry dates, rece
 
 **Personal Finance & Expense Management App**
 
-A completed Flutter application for managing multiple accounts, tracking income and expenses, viewing transaction history, monitoring account balances, and analyzing financial activity.
+A completed Flutter application for managing personal finances across multiple accounts.
 
-**Tech:** `Flutter` `Dart` `Local Database`
+**Features**
 
-[View Respository](https://github.com/dev-shahanoon/expense_tracker)
+- Multiple bank/account management
+- Income and expense tracking
+- Account-wise transactions
+- Transaction history
+- Account balance tracking
+- Expense categories
+- Monthly analytics
+- Dark theme
+
+**Tech Stack**
+
+`Flutter` `Dart` `Local Database`
+
+> Repository will be added soon.
 
 ---
 
@@ -49,21 +101,34 @@ A completed Flutter application for managing multiple accounts, tracking income 
 
 **Interactive Coding Practice Application**
 
-A learning-focused application designed around hands-on programming exercises and challenges, helping users practice coding while learning Python and HTML.
+A learning-focused application designed to help users learn programming through hands-on exercises and coding challenges.
 
-**Tech:** `Flutter` `Dart` `Python` `FastAPI`
+**Current Learning Areas**
 
-> Currently under active development.
+- Python
+- HTML
+- Programming fundamentals
+- Interactive coding exercises
+
+**Tech Stack**
+
+`Flutter` `Dart` `Python` `FastAPI`
+
+> 🚧 Currently under active development.
 
 ---
 
 ### 🌐 Shahanoon K — Portfolio
 
-My personal developer portfolio showcasing my skills, projects, education, experience, and development journey.
+My personal developer portfolio showcasing my projects, skills, education, experience, and development journey.
 
-**Tech:** `React` `Vite` `JavaScript` `CSS`
+**Tech Stack**
 
-[View Repository](https://github.com/dev-Shahanoon/shahanoon-protfolio) · [Visit Portfolio](https://shahanoon-protfolio.vercel.app)
+`React` `Vite` `JavaScript` `CSS`
+
+[View Repository →](https://github.com/dev-Shahanoon/shahanoon-protfolio)
+
+[Visit Portfolio →](https://shahanoon-protfolio.vercel.app)
 
 ---
 
@@ -71,64 +136,55 @@ My personal developer portfolio showcasing my skills, projects, education, exper
 
 ### Languages
 
-`Dart` `JavaScript` `Python` `HTML` `CSS`
+<p>
+  <code>Dart</code>
+  <code>Python</code>
+  <code>JavaScript</code>
+  <code>HTML</code>
+  <code>CSS</code>
+</p>
 
 ### Frameworks & Platforms
 
-`Flutter` `React` `Vite` `FastAPI`
+<p>
+  <code>Flutter</code>
+  <code>React</code>
+  <code>Vite</code>
+  <code>FastAPI</code>
+</p>
 
 ### Backend & Cloud
 
-`Firebase` `Cloud Firestore` `REST APIs`
+<p>
+  <code>Firebase</code>
+  <code>Cloud Firestore</code>
+  <code>REST APIs</code>
+</p>
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Android Studio`
+<p>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>VS Code</code>
+  <code>Android Studio</code>
+</p>
 
 ---
 
-## 📌 Current Projects
+## 🔭 Currently Building
 
-### 💻 CodeStep
+### CodeStep
 
-Currently developing CodeStep, an interactive learning platform focused on hands-on programming practice.
+An interactive coding practice platform focused on learning through hands-on exercises.
 
-### 💰 Expense Tracker
-
-Completed and preparing the project for its public GitHub release.
-
----
-
-## 🚀 What I'm Building
-
-My current development focus includes:
-
-- Mobile application development
-- Interactive learning applications
-- Personal finance applications
-- AI-assisted applications
-- Backend and API integration
-- Clean and practical user experiences
-
----
-
-## 🌐 Connect With Me
-
-**Portfolio**  
-https://shahanoon-protfolio.vercel.app
-
-**LinkedIn**  
-https://www.linkedin.com/in/shahanoon-k
-
-**GitHub**  
-https://github.com/dev-Shahanoon
-
----
-
-## 🎯 Goal
-
-To grow as a software developer by building real-world applications, learning modern technologies, and continuously improving my problem-solving and development skills.
-
----
-
-⭐ Feel free to explore my repositories and follow my development journey.
+```text
+Flutter
+   ↓
+Python
+   ↓
+HTML
+   ↓
+FastAPI
+   ↓
+Interactive Coding Practice
